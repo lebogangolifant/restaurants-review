@@ -1,6 +1,6 @@
 # Udacity-Restaurant-Review-App
 
-Front-End Web Nanodegree Scholarship project 5.
+Front-End Web Nanodegree Scholarship project 6.
 
 ### Project Specification
 
